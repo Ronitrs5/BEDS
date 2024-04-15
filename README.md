@@ -80,12 +80,10 @@ Terminal:
 
 Terminal 1:
 
-    python client.py
+    javac Berkeley.java
 
+    java Berkeley
 
-Terminal 2:
-
-    python server.py
 
 ### Assignment 5:
 
